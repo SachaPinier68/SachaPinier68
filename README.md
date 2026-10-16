@@ -1,7 +1,6 @@
 # Salut, moi c'est Sacha 👋
 
 Étudiant en **1ʳᵉ année du cycle ingénieur Informatique & Réseaux** à l'[ENSISA](https://www.ensisa.uha.fr/) (Mulhouse).
-J'aime comprendre comment les choses marchent sous le capot, de l'algorithme jusqu'à la page web.
 
 - 🎓 En ce moment : algorithmique, programmation C, architecture des ordinateurs, systèmes UNIX
 - 💡 Centres d'intérêt : développement web, algorithmique
